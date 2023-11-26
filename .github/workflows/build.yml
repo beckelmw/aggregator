@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "src/**/*"
+      - "urls.txt"
   schedule:
     - cron: "0 13 * * *"
 
