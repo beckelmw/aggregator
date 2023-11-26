@@ -2,7 +2,7 @@ import Parser from "rss-parser";
 import html from "./html.js";
 import { createReadStream } from "fs";
 import readline from "readline";
-import { writeFile } from "fs/promises";
+import { writeFile, mkdir } from "fs/promises";
 
 const parser = new Parser();
 
@@ -77,4 +77,5 @@ const result = html`<!DOCTYPE html>
     </body>
   </html>`;
 
+await mkdir('./public', { recursive: true });
 await writeFile("./public/index.html", result, "utf-8");
