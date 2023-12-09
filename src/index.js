@@ -52,11 +52,13 @@ const result = html`<!DOCTYPE html>
       />
       <title>Reader</title>
       <script src="https://excerpts.beckelman.net/js/color-mode.js"></script>
+      <script src="https://excerpts.beckelman.net/js/hue-selector.js"></script>
     </head>
     <body>
       <nav>
         <a href="/">Reader</a>
         <color-mode></color-mode>
+        <hue-selector></hue-selector>
       </nav>
       ${items.sort(sortFeed).map((item) => {
         return html`<article>
