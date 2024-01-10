@@ -9,3 +9,4 @@ https://www.zachleat.com/web/feed/
 https://tylergaw.com/rss.xml
 https://chriscoyier.net/feed/
 https://notes.keithjgrant.com/index.xml
+https://www.binaryheap.com/feed/
