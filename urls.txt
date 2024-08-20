@@ -1,12 +1,7 @@
-https://blog.jim-nielsen.com/feed.xml
-https://daverupert.com/atom.xml
-https://www.joshwcomeau.com/rss.xml
-https://www.abeautifulsite.net/feed/feed.xml
-https://adactio.com/journal/rss
-https://feeds.feedburner.com/csswizardry
-https://dev.to/feed/steveblue
 https://www.zachleat.com/web/feed/
 https://tylergaw.com/rss.xml
 https://chriscoyier.net/feed/
 https://notes.keithjgrant.com/index.xml
 https://www.binaryheap.com/feed/
+https://moderncss.dev/feed/
+https://smolcss.dev/feed/
