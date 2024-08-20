@@ -9,5 +9,5 @@ https://moderncss.dev/feed/
 https://smolcss.dev/feed/
 https://www.zachleat.com/web/feed/
 https://tylergaw.com/rss.xml
-https://notes.keithjgrant.com/index.xml
+https://chriscoyier.net/feed/
 https://www.binaryheap.com/feed/
