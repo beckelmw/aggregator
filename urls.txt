@@ -10,4 +10,3 @@ https://tylergaw.com/rss.xml
 https://chriscoyier.net/feed/
 https://notes.keithjgrant.com/index.xml
 https://www.binaryheap.com/feed/
-https://moderncss.dev/feed/
