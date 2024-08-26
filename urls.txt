@@ -10,3 +10,4 @@ https://smolcss.dev/feed/
 https://www.zachleat.com/web/feed/
 https://tylergaw.com/rss.xml
 https://chriscoyier.net/feed/
+https://piccalil.li/feed.xml
